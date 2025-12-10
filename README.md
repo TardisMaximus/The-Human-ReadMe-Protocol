@@ -8,12 +8,16 @@ The Human ReadMe Protocol is an open-source framework designed to bridge the com
 
 It was born out of the exhaustion of having to explain a "Live Wire" operating system (High-Velocity, High-Sensitivity) to a world built for standard processing.
 
-The Goal
+The Goal:
+
 To bypass the friction of the intake process and establish a high-bandwidth connection immediately.
 
 What's Included?
+
 The Template: A standardized, blank "User Manual" for patients to fill out and hand to providers.
+
 The System Architecture: A breakdown of the "Live Wire" cognitive profile vs. the "Standard OS."
+
 Communication Protocols: Specific "Do's and Don'ts" for interacting with high-sensitivity nervous systems to prevent system crashes (anxiety/shutdown).
 
 How to Use
